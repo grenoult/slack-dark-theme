@@ -1014,6 +1014,8 @@ pre.special_formatting {
 
 span.c-message_attachment__text, 
 .c-message_attachment__title, 
-.c-message_attachment__text span {
+.c-message_attachment__text,
+.c-message_attachment__field,
+.c-message_attachment__field--short {
     color: #fff;
 }
