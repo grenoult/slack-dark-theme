@@ -1016,6 +1016,9 @@ span.c-message_attachment__text,
 .c-message_attachment__title, 
 .c-message_attachment__text,
 .c-message_attachment__field,
-.c-message_attachment__field--short {
+.c-message_attachment__field--short,
+.c-message_attachment__field_title,
+.c-message_attachment__field_title span
+{
     color: #fff;
 }
