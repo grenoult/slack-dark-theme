@@ -60,3 +60,4 @@ webviews.forEach(webview => {
 Sources:
  - https://github.com/widget-/slack-black-theme
  - https://github.com/widget-/slack-black-theme/issues/48#issuecomment-382017521
+ - Bryan Keller (https://github.com/widget-)
