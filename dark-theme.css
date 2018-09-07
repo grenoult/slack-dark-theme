@@ -1022,3 +1022,7 @@ span.c-message_attachment__text,
 {
     color: #fff;
 }
+
+.c-message_attachment__border {
+    background-color: #e8e8e8 !important;
+}
