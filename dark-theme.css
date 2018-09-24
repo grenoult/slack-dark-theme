@@ -1026,3 +1026,11 @@ span.c-message_attachment__text,
 .c-message_attachment__border {
     background-color: #e8e8e8 !important;
 }
+
+.c-member_slug--link {
+    background-color: #111;
+}
+
+.c-mrkdwn__broadcast--mention, .c-mrkdwn__broadcast--mention:hover, .c-mrkdwn__highlight, .c-mrkdwn__mention, .c-mrkdwn__mention:hover, .c-mrkdwn__user_group--mention, .c-mrkdwn__user_group--mention:hover {
+    background: #000;
+}
