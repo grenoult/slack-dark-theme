@@ -1029,8 +1029,10 @@ span.c-message_attachment__text,
 
 .c-member_slug--link {
     background-color: #111;
+    border: 1px solid #aaa;
 }
 
 .c-mrkdwn__broadcast--mention, .c-mrkdwn__broadcast--mention:hover, .c-mrkdwn__highlight, .c-mrkdwn__mention, .c-mrkdwn__mention:hover, .c-mrkdwn__user_group--mention, .c-mrkdwn__user_group--mention:hover {
     background: #000;
+    border: 1px solid #aaa;
 }
