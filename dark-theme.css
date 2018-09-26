@@ -1043,3 +1043,8 @@ span.c-message_attachment__text,
     background: #222;
     color: #fff;
 }
+
+/* Remove top white bar below conversation title */
+#client_body:not(.onboarding):not(.feature_global_nav_layout):before {
+    background: transparent;   
+}
