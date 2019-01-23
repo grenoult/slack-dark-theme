@@ -1048,3 +1048,7 @@ span.c-message_attachment__text,
 #client_body:not(.onboarding):not(.feature_global_nav_layout):before {
     background: transparent;   
 }
+
+/* Thread text color */
+.c-message_kit__text {
+    color: #fff;
