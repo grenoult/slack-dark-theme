@@ -1052,3 +1052,14 @@ span.c-message_attachment__text,
 /* Thread text color */
 .c-message_kit__text {
     color: #fff;
+}
+ 
+/* Conversation header text color */
+.p-message_pane__foreword__description {
+    color: #afafaf;
+}
+
+/* Conversation header background color */
+.c-virtual_list__scroll_container {
+    background-color: #222;
+}
