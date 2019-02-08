@@ -1063,3 +1063,8 @@ span.c-message_attachment__text,
 .c-virtual_list__scroll_container {
     background-color: #222;
 }
+
+/* Input placeholder text color */
+.ql-placeholder {
+    color: #fff !important;
+}
