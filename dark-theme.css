@@ -1068,3 +1068,13 @@ span.c-message_attachment__text,
 .ql-placeholder {
     color: #fff !important;
 }
+
+/* Fix reaction count text color */
+.c-reaction__count {
+    color: #afafaf !important;
+}
+
+/* Change background colour of "Loading History" */
+.p-degraded_list__loading {
+    background: transparent;
+}
