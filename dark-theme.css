@@ -1078,3 +1078,15 @@ span.c-message_attachment__text,
 .p-degraded_list__loading {
     background: transparent;
 }
+
+.p-threads_view__default_background {
+    background: inherit !important;
+}
+
+.c-channel_name {
+    color: white !important;
+}
+
+.p_threads_view_load_older_button {
+    background: inherit !important;
+}
