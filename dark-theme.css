@@ -1074,19 +1074,29 @@ span.c-message_attachment__text,
     color: #afafaf !important;
 }
 
+/* Fix channel name text colour */
+.c-channel_name {
+    color: white !important;
+}
+
 /* Change background colour of "Loading History" */
 .p-degraded_list__loading {
     background: transparent;
 }
 
+/* Fix thread full page colours */
 .p-threads_view__default_background {
     background: inherit !important;
 }
 
-.c-channel_name {
-    color: white !important;
-}
-
 .p_threads_view_load_older_button {
     background: inherit !important;
+}
+
+.p-threads_view_reply--new_reply {
+    background-color: #333;
+}
+
+.p_threads_view_load_newer_button, .p_threads_view_load_older_button {
+    background-color: inherit !important;
 }
