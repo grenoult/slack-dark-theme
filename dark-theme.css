@@ -1100,3 +1100,7 @@ span.c-message_attachment__text,
 .p_threads_view_load_newer_button, .p_threads_view_load_older_button {
     background-color: inherit !important;
 }
+
+span.c-label__text {
+    color: #eee;
+}
